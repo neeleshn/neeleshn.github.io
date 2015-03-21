@@ -1,1 +1,0 @@
-angular.module('LeaveApp', []).controller("LeaveCtrl", LeaveFn);
