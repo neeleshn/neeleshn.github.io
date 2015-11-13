@@ -85,3 +85,14 @@
   }
 }
 
+.para-wrap
+{
+  padding:1% 5% 3% 5%;
+  text-align: justify;
+}
+
+.quote-wrap {
+  font-size: large;
+  font-style: italic;
+  text-align: center;
+}
